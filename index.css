@@ -10,6 +10,8 @@
     border: 3px solid black;
     align-items: center;
     height: 70;
+    width: 100%;
+    position: fixed;
 }
 .logo{
     margin-right: 5%;

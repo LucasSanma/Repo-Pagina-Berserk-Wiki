@@ -36,7 +36,7 @@
     gap: 15px;
 }
 body{
-    /*  background-image: url(./Berserk.png); */ 
+    background-image: url(./Berserk.png); 
 }
 .opciones_menu li{
     display: flex;

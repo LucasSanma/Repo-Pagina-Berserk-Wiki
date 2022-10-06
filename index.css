@@ -61,7 +61,6 @@ body{
     padding: 1%;
 }
 .icono_menu{
-    display: flex;
     font-size: 25px;
     display: none;
     background-color: rgb(198, 155, 155);
